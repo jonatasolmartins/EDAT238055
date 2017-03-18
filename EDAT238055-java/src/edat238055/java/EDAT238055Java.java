@@ -27,7 +27,7 @@ public class EDAT238055Java {
         String indice = "";
         
         do {
-            System.out.println("Bem-vindo as Olimpíadas!\n");
+            System.out.println("Bem-vindo as Olimpíadas! \n");
             System.out.println("Por favor informe a quantidade de eventos realizados");
             evt = entrada.nextInt();
         
